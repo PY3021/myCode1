@@ -1,7 +1,4 @@
 pandas
 numpy
 plotly
-os
-pickle
-datetime
 yfinance
