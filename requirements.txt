@@ -1,8 +1,7 @@
 pandas
 numpy
-streamlit
 plotly
-yfinance
 os
 pickle
 datetime
+yfinance
